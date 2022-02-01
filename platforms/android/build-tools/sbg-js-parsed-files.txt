@@ -1,0 +1,11 @@
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\bundle.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\runtime.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\src_app_browse_browse_module_ts.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\src_app_featured_featured_module_ts.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\src_app_game_game_module_ts.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\src_app_home_home_module_ts.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\src_app_informacion_informacion_module_ts.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\src_app_personal_personal_module_ts.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\src_app_settings_settings_module_ts.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\src_app_usuarios_usuarios_module_ts.js
+C:\Users\alexg\validaciones\semana-2\platforms\android\app\src\main\assets\app\vendor.js
